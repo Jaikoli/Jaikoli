@@ -19,7 +19,7 @@
           • I am a highly creative problem-solver, known for developing robust hacks to tackle complex challenges.<br>
           <br>
           • Creative Project Highlights<br>
-          • AutoPause Chrome Extension (Live) https://bit.ly/AutoPause-Chrome-Extension<br>
+          • AutoPause Chrome Extension (Live) https://bit.ly/-extension<br>
           • Dictate React App (Live) https://jaikoli2.vercel.app/<br>
           <br>
           • I am interested in Development,
