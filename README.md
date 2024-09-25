@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-<h2 align="center">I am Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h2>
+<h2 align="center">I am FrontEnd Web Developer, Problem Solver & A TECH-GEEK.</h2>
 # 🌐 About Me:
 <table style="width:100%; display: flex; align-items: center; justify-content: space-between;">
     <tr>
@@ -17,13 +17,13 @@
         <p>
           • I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
           • I am a highly creative problem-solver, known for developing robust hacks to tackle complex challenges.<br>
+          • Creative Project Highlights<br>
+          • AutoPause Chrome Extension (Live) https://github.com/Jaikoli/AutoPause-Chrome-Extension<br>
+          • Dictate React App (Live) https://jaikoli2.vercel.app/<br>
           • I am interested in Development,
             Sports Programming, learning New Programming<br>
             Languages, Techstacks, & New Technologies and
             seeking exciting opportunities related to the same.<br>
-          • The skills that I have attained from the dynamic environment &
-          Competitive university life define me, and I am looking
-          forward to Implementing and polishing<br> them in any opportunity that I receive...<br>
           • Feel free to go through my profile and approach me,
           If you need any help, will be glad to help you...<br><br>
         </p>
@@ -56,21 +56,21 @@
 <tr>
 <td>Language</td>
 <td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </a> 
 </td>
 </tr>
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </td>
 </tr>
 <tr>
 <td>CSS Frameworks</td>
 <td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
  </td>
 </tr>
@@ -81,23 +81,16 @@
   </a>
  </td>
 </tr>
-<tr>
-<td>Backend Framework</td>
-<td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-   </a>
-</td>
-</tr>
 <td>Database</td>
 <td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
    </a>
 </td>
 </tr>
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Jaikoli" >
-    <img src="https://skillicons.dev/icons?i=github,aws,heroku,netlify" />
+    <img src="https://skillicons.dev/icons?i=github,heroku,netlify" />
   </a>
 </td>
 </tr>
@@ -109,7 +102,7 @@
 </td>
 </tr>
 </table>
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jaikoli&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaikoli&theme=dark&hide_border=false" /><br/>
@@ -119,3 +112,4 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Jaikoli&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
 </p>
+ -->
