@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-<h2 align="center">I am FrontEnd Web Developer, Problem Solver & A TECH-GEEK.</h2>
+<h2 align="center">I am Web Developer, Problem Solver & A TECH-GEEK.</h2>
 # 🌐 About Me:
 <table style="width:100%; display: flex; align-items: center; justify-content: space-between;">
     <tr>
