@@ -17,9 +17,11 @@
         <p>
           • I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
           • I am a highly creative problem-solver, known for developing robust hacks to tackle complex challenges.<br>
+          <br>
           • Creative Project Highlights<br>
-          • AutoPause Chrome Extension (Live) https://github.com/Jaikoli/AutoPause-Chrome-Extension<br>
+          • AutoPause Chrome Extension (Live) https://bit.ly/AutoPause-Chrome-Extension<br>
           • Dictate React App (Live) https://jaikoli2.vercel.app/<br>
+          <br>
           • I am interested in Development,
             Sports Programming, learning New Programming<br>
             Languages, Techstacks, & New Technologies and
